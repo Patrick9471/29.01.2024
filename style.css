@@ -24,7 +24,7 @@ body {
   max-width: 1600px;
   min-height: 300px;
   min-height: 100vh;
-  background-color: #FCFCFC;
+  background-color: #000000;
   overflow-x: hidden;
 }
 
@@ -53,7 +53,7 @@ body {
   font-size: 30px;
   line-height: 30px;
   letter-spacing: 0.02em;
-  color: black;
+  color: purple;
 }
 
 .Paje1 .header .logo p span {
