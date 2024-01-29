@@ -17,7 +17,7 @@ body {
   min-height: 100vh;
   display: flex;
   justify-content: center;
-  background-color: #FCFCFC;
+  background-color: #000000;
 }
 
 .conteiner {
@@ -50,7 +50,7 @@ body {
   font-family: 'Josefin Sans';
   font-style: normal;
   font-weight: 700;
-  font-size: 30px;
+  font-size: 20px;
   line-height: 30px;
   letter-spacing: 0.02em;
   color: purple;
